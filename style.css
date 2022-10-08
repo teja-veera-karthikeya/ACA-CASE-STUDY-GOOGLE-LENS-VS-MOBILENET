@@ -16,7 +16,7 @@ span{
     text-align: center;
     width: 100%;
     font-family: 'Roboto Slab', serif;
-    background-color: white;
+
 }
 .img{
     margin-top: 10px;
@@ -32,6 +32,8 @@ b{
     border-radius: 10px;
     line-height: 2;
 }
+
+
 .test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
     margin-top: 15px;
     background-color: rgb(155, 153, 153);
@@ -60,5 +62,5 @@ h5 span{
     font-weight: bold;
     font-size: 15px;
     width: 50%;
-
+ align-items: center;
 }
